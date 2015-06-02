@@ -1,10 +1,7 @@
 # WebProject
-The Web project  
-组长：  
-13121265 赵亚君 Luomohe  
-组员：  
-13121220 杜焱   duyanduyan  
-13121232 戴源丰 shenrenshige  
-13121255 胡耀夫 huyaofu  
-13121325 钟镇刚 mucao  
-13121321 焦正贤 Reneton1
+##Home
+https://github.com/Luomohe/WebProject/wiki
+##Web应用项目建议书
+https://github.com/Luomohe/WebProject/wiki/Web%E5%BA%94%E7%94%A8%E9%A1%B9%E7%9B%AE%E5%BB%BA%E8%AE%AE%E8%AF%B4%E6%98%8E%E4%B9%A6
+##Web应用项目需求说明书
+https://github.com/Luomohe/WebProject/wiki/Web%E5%BA%94%E7%94%A8%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E%E4%B9%A6
